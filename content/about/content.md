@@ -18,6 +18,7 @@ The Hugo Agency Theme was based on the work of David Miller with his Startupboot
 **Provided with <3 by Okkur Labs**
 
 ---
+{{< tableauEmbed id="viz1606357297714" name="TheOriginals&#47;TheOriginals" >}}
 
 To actually test out the full single page some Lorem Ipsum:
 
